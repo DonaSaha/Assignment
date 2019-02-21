@@ -1,5 +1,6 @@
 <project>
   <parent>
+    <groupId>application</groupId>
     <artifactId>my-app</artifactId>
     <version>1</version>
   </parent>
